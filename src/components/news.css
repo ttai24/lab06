@@ -1,0 +1,13 @@
+.news-heading {
+  color: red;
+  margin-left: 20px;
+}
+
+.news-card {
+  width: 18rem;
+  margin-top: 20px;
+}
+.row-cols-6 .news-card {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
